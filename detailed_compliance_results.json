@@ -1,0 +1,497 @@
+[
+  {
+    "filename": "CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.pdf",
+    "total_rules": 17,
+    "compliant": 13,
+    "violations": 4,
+    "violation_details": [
+      {
+        "rule_id": "RULE_008",
+        "rule_name": "Most Favored Nation Clause",
+        "severity": "LOW",
+        "missing_data": [
+          "Most Favored Nation"
+        ],
+        "remediation": "Clarify MFN terms or remove if N/A"
+      },
+      {
+        "rule_id": "RULE_010",
+        "rule_name": "Exclusivity Terms",
+        "severity": "MEDIUM",
+        "missing_data": [
+          "Exclusivity"
+        ],
+        "remediation": "Outline exclusive rights and exceptions"
+      },
+      {
+        "rule_id": "RULE_011",
+        "rule_name": "IP Ownership Assignment",
+        "severity": "HIGH",
+        "missing_data": [
+          "Ip Ownership Assignment"
+        ],
+        "remediation": "Define IP ownership and assignment"
+      },
+      {
+        "rule_id": "RULE_013",
+        "rule_name": "Termination Rights",
+        "severity": "HIGH",
+        "missing_data": [
+          "Termination For Convenience"
+        ],
+        "remediation": "Add termination clause with conditions"
+      }
+    ],
+    "compliance_pct": 76.47058823529412
+  },
+  {
+    "filename": "EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.pdf",
+    "total_rules": 17,
+    "compliant": 15,
+    "violations": 2,
+    "violation_details": [
+      {
+        "rule_id": "RULE_010",
+        "rule_name": "Exclusivity Terms",
+        "severity": "MEDIUM",
+        "missing_data": [
+          "Exclusivity"
+        ],
+        "remediation": "Outline exclusive rights and exceptions"
+      },
+      {
+        "rule_id": "RULE_011",
+        "rule_name": "IP Ownership Assignment",
+        "severity": "HIGH",
+        "missing_data": [
+          "Ip Ownership Assignment"
+        ],
+        "remediation": "Define IP ownership and assignment"
+      }
+    ],
+    "compliance_pct": 88.23529411764706
+  },
+  {
+    "filename": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement.pdf",
+    "total_rules": 17,
+    "compliant": 10,
+    "violations": 7,
+    "violation_details": [
+      {
+        "rule_id": "RULE_003",
+        "rule_name": "Expiration Date Specification",
+        "severity": "MEDIUM",
+        "missing_data": [
+          "Expiration Date"
+        ],
+        "remediation": "Specify contract end date or mark as perpetual"
+      },
+      {
+        "rule_id": "RULE_006",
+        "rule_name": "Notice Period for Renewal",
+        "severity": "MEDIUM",
+        "missing_data": [
+          "Notice Period To Terminate Renewal"
+        ],
+        "remediation": "Specify notice period (e.g., 30, 60 days)"
+      },
+      {
+        "rule_id": "RULE_008",
+        "rule_name": "Most Favored Nation Clause",
+        "severity": "LOW",
+        "missing_data": [
+          "Most Favored Nation"
+        ],
+        "remediation": "Clarify MFN terms or remove if N/A"
+      },
+      {
+        "rule_id": "RULE_011",
+        "rule_name": "IP Ownership Assignment",
+        "severity": "HIGH",
+        "missing_data": [
+          "Ip Ownership Assignment"
+        ],
+        "remediation": "Define IP ownership and assignment"
+      },
+      {
+        "rule_id": "RULE_013",
+        "rule_name": "Termination Rights",
+        "severity": "HIGH",
+        "missing_data": [
+          "Termination For Convenience"
+        ],
+        "remediation": "Add termination clause with conditions"
+      },
+      {
+        "rule_id": "RULE_014",
+        "rule_name": "Liquidated Damages",
+        "severity": "MEDIUM",
+        "missing_data": [
+          "Cap On Liability"
+        ],
+        "remediation": "Define damage amounts or formulas"
+      },
+      {
+        "rule_id": "RULE_015",
+        "rule_name": "Liability Cap Specification",
+        "severity": "HIGH",
+        "missing_data": [
+          "Cap On Liability"
+        ],
+        "remediation": "Define maximum liability amounts"
+      }
+    ],
+    "compliance_pct": 58.82352941176471
+  },
+  {
+    "filename": "GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.pdf",
+    "total_rules": 17,
+    "compliant": 14,
+    "violations": 3,
+    "violation_details": [
+      {
+        "rule_id": "RULE_008",
+        "rule_name": "Most Favored Nation Clause",
+        "severity": "LOW",
+        "missing_data": [
+          "Most Favored Nation"
+        ],
+        "remediation": "Clarify MFN terms or remove if N/A"
+      },
+      {
+        "rule_id": "RULE_011",
+        "rule_name": "IP Ownership Assignment",
+        "severity": "HIGH",
+        "missing_data": [
+          "Ip Ownership Assignment"
+        ],
+        "remediation": "Define IP ownership and assignment"
+      },
+      {
+        "rule_id": "RULE_013",
+        "rule_name": "Termination Rights",
+        "severity": "HIGH",
+        "missing_data": [
+          "Termination For Convenience"
+        ],
+        "remediation": "Add termination clause with conditions"
+      }
+    ],
+    "compliance_pct": 82.35294117647058
+  },
+  {
+    "filename": "IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.pdf",
+    "total_rules": 17,
+    "compliant": 11,
+    "violations": 6,
+    "violation_details": [
+      {
+        "rule_id": "RULE_005",
+        "rule_name": "Renewal Terms Clarity",
+        "severity": "MEDIUM",
+        "missing_data": [
+          "Renewal Term"
+        ],
+        "remediation": "Add section defining renewal process"
+      },
+      {
+        "rule_id": "RULE_006",
+        "rule_name": "Notice Period for Renewal",
+        "severity": "MEDIUM",
+        "missing_data": [
+          "Notice Period To Terminate Renewal"
+        ],
+        "remediation": "Specify notice period (e.g., 30, 60 days)"
+      },
+      {
+        "rule_id": "RULE_008",
+        "rule_name": "Most Favored Nation Clause",
+        "severity": "LOW",
+        "missing_data": [
+          "Most Favored Nation"
+        ],
+        "remediation": "Clarify MFN terms or remove if N/A"
+      },
+      {
+        "rule_id": "RULE_010",
+        "rule_name": "Exclusivity Terms",
+        "severity": "MEDIUM",
+        "missing_data": [
+          "Exclusivity"
+        ],
+        "remediation": "Outline exclusive rights and exceptions"
+      },
+      {
+        "rule_id": "RULE_011",
+        "rule_name": "IP Ownership Assignment",
+        "severity": "HIGH",
+        "missing_data": [
+          "Ip Ownership Assignment"
+        ],
+        "remediation": "Define IP ownership and assignment"
+      },
+      {
+        "rule_id": "RULE_013",
+        "rule_name": "Termination Rights",
+        "severity": "HIGH",
+        "missing_data": [
+          "Termination For Convenience"
+        ],
+        "remediation": "Add termination clause with conditions"
+      }
+    ],
+    "compliance_pct": 64.70588235294117
+  },
+  {
+    "filename": "DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.pdf",
+    "total_rules": 17,
+    "compliant": 10,
+    "violations": 7,
+    "violation_details": [
+      {
+        "rule_id": "RULE_005",
+        "rule_name": "Renewal Terms Clarity",
+        "severity": "MEDIUM",
+        "missing_data": [
+          "Renewal Term"
+        ],
+        "remediation": "Add section defining renewal process"
+      },
+      {
+        "rule_id": "RULE_006",
+        "rule_name": "Notice Period for Renewal",
+        "severity": "MEDIUM",
+        "missing_data": [
+          "Notice Period To Terminate Renewal"
+        ],
+        "remediation": "Specify notice period (e.g., 30, 60 days)"
+      },
+      {
+        "rule_id": "RULE_008",
+        "rule_name": "Most Favored Nation Clause",
+        "severity": "LOW",
+        "missing_data": [
+          "Most Favored Nation"
+        ],
+        "remediation": "Clarify MFN terms or remove if N/A"
+      },
+      {
+        "rule_id": "RULE_010",
+        "rule_name": "Exclusivity Terms",
+        "severity": "MEDIUM",
+        "missing_data": [
+          "Exclusivity"
+        ],
+        "remediation": "Outline exclusive rights and exceptions"
+      },
+      {
+        "rule_id": "RULE_011",
+        "rule_name": "IP Ownership Assignment",
+        "severity": "HIGH",
+        "missing_data": [
+          "Ip Ownership Assignment"
+        ],
+        "remediation": "Define IP ownership and assignment"
+      },
+      {
+        "rule_id": "RULE_013",
+        "rule_name": "Termination Rights",
+        "severity": "HIGH",
+        "missing_data": [
+          "Termination For Convenience"
+        ],
+        "remediation": "Add termination clause with conditions"
+      },
+      {
+        "rule_id": "RULE_016",
+        "rule_name": "Audit Rights Definition",
+        "severity": "LOW",
+        "missing_data": [
+          "Audit Rights"
+        ],
+        "remediation": "Add audit clause with frequency"
+      }
+    ],
+    "compliance_pct": 58.82352941176471
+  },
+  {
+    "filename": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.pdf",
+    "total_rules": 17,
+    "compliant": 13,
+    "violations": 4,
+    "violation_details": [
+      {
+        "rule_id": "RULE_008",
+        "rule_name": "Most Favored Nation Clause",
+        "severity": "LOW",
+        "missing_data": [
+          "Most Favored Nation"
+        ],
+        "remediation": "Clarify MFN terms or remove if N/A"
+      },
+      {
+        "rule_id": "RULE_011",
+        "rule_name": "IP Ownership Assignment",
+        "severity": "HIGH",
+        "missing_data": [
+          "Ip Ownership Assignment"
+        ],
+        "remediation": "Define IP ownership and assignment"
+      },
+      {
+        "rule_id": "RULE_013",
+        "rule_name": "Termination Rights",
+        "severity": "HIGH",
+        "missing_data": [
+          "Termination For Convenience"
+        ],
+        "remediation": "Add termination clause with conditions"
+      },
+      {
+        "rule_id": "RULE_016",
+        "rule_name": "Audit Rights Definition",
+        "severity": "LOW",
+        "missing_data": [
+          "Audit Rights"
+        ],
+        "remediation": "Add audit clause with frequency"
+      }
+    ],
+    "compliance_pct": 76.47058823529412
+  },
+  {
+    "filename": "IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.pdf",
+    "total_rules": 17,
+    "compliant": 10,
+    "violations": 7,
+    "violation_details": [
+      {
+        "rule_id": "RULE_002",
+        "rule_name": "Effective Date Requirement",
+        "severity": "HIGH",
+        "missing_data": [
+          "Effective Date"
+        ],
+        "remediation": "Add explicit effective date in standard format"
+      },
+      {
+        "rule_id": "RULE_005",
+        "rule_name": "Renewal Terms Clarity",
+        "severity": "MEDIUM",
+        "missing_data": [
+          "Renewal Term"
+        ],
+        "remediation": "Add section defining renewal process"
+      },
+      {
+        "rule_id": "RULE_006",
+        "rule_name": "Notice Period for Renewal",
+        "severity": "MEDIUM",
+        "missing_data": [
+          "Notice Period To Terminate Renewal"
+        ],
+        "remediation": "Specify notice period (e.g., 30, 60 days)"
+      },
+      {
+        "rule_id": "RULE_011",
+        "rule_name": "IP Ownership Assignment",
+        "severity": "HIGH",
+        "missing_data": [
+          "Ip Ownership Assignment"
+        ],
+        "remediation": "Define IP ownership and assignment"
+      },
+      {
+        "rule_id": "RULE_013",
+        "rule_name": "Termination Rights",
+        "severity": "HIGH",
+        "missing_data": [
+          "Termination For Convenience"
+        ],
+        "remediation": "Add termination clause with conditions"
+      },
+      {
+        "rule_id": "RULE_014",
+        "rule_name": "Liquidated Damages",
+        "severity": "MEDIUM",
+        "missing_data": [
+          "Cap On Liability"
+        ],
+        "remediation": "Define damage amounts or formulas"
+      },
+      {
+        "rule_id": "RULE_015",
+        "rule_name": "Liability Cap Specification",
+        "severity": "HIGH",
+        "missing_data": [
+          "Cap On Liability"
+        ],
+        "remediation": "Define maximum liability amounts"
+      }
+    ],
+    "compliance_pct": 58.82352941176471
+  },
+  {
+    "filename": "MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.pdf",
+    "total_rules": 17,
+    "compliant": 14,
+    "violations": 3,
+    "violation_details": [
+      {
+        "rule_id": "RULE_006",
+        "rule_name": "Notice Period for Renewal",
+        "severity": "MEDIUM",
+        "missing_data": [
+          "Notice Period To Terminate Renewal"
+        ],
+        "remediation": "Specify notice period (e.g., 30, 60 days)"
+      },
+      {
+        "rule_id": "RULE_008",
+        "rule_name": "Most Favored Nation Clause",
+        "severity": "LOW",
+        "missing_data": [
+          "Most Favored Nation"
+        ],
+        "remediation": "Clarify MFN terms or remove if N/A"
+      },
+      {
+        "rule_id": "RULE_013",
+        "rule_name": "Termination Rights",
+        "severity": "HIGH",
+        "missing_data": [
+          "Termination For Convenience"
+        ],
+        "remediation": "Add termination clause with conditions"
+      }
+    ],
+    "compliance_pct": 82.35294117647058
+  },
+  {
+    "filename": "TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.pdf",
+    "total_rules": 17,
+    "compliant": 15,
+    "violations": 2,
+    "violation_details": [
+      {
+        "rule_id": "RULE_010",
+        "rule_name": "Exclusivity Terms",
+        "severity": "MEDIUM",
+        "missing_data": [
+          "Exclusivity"
+        ],
+        "remediation": "Outline exclusive rights and exceptions"
+      },
+      {
+        "rule_id": "RULE_013",
+        "rule_name": "Termination Rights",
+        "severity": "HIGH",
+        "missing_data": [
+          "Termination For Convenience"
+        ],
+        "remediation": "Add termination clause with conditions"
+      }
+    ],
+    "compliance_pct": 88.23529411764706
+  }
+]
